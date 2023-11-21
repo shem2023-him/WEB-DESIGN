@@ -1,0 +1,7 @@
+body{
+	color: black;background-color: pink;
+}
+h2{color: yellow;background-color: black;border-bottom: 1px dashed;border-top: 1px solid;}
+	body{opacity: 70%;background-image: url('CSS images/leaf.jpg');}
+
+table{background-color: whitesmoke;}
